@@ -1,0 +1,11 @@
+NSD.lib
+nes.inc
+nsd.inc
+nsddef.inc
+*.swp
+*.o
+*.nes
+*.dbg
+*.nsf
+work/
+ReStartRemix.s
